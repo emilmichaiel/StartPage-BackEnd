@@ -1,6 +1,6 @@
 # Description
 
-Back end for start page application written in Java using Spring Boot
+Back end for start page application written in Java using Spring Boot for homelabs application.
 
 # Prerequest
 
@@ -10,3 +10,4 @@ Back end for start page application written in Java using Spring Boot
 # Todo
 
 * ADD JWT expiration in the Auth controller
+* Implement Catogories for Cards
